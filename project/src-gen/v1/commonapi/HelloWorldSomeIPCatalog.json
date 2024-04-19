@@ -1,0 +1,8 @@
+{
+    "commonapi.HelloWorld" : {
+        "service_id": 4660,
+        "instances" : {
+            "test": 22136
+        }
+    }
+}

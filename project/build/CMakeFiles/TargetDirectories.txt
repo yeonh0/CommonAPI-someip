@@ -1,0 +1,4 @@
+/home/jo/COVESA/project/build/CMakeFiles/HelloWorldClient.dir
+/home/jo/COVESA/project/build/CMakeFiles/HelloWorldService.dir
+/home/jo/COVESA/project/build/CMakeFiles/edit_cache.dir
+/home/jo/COVESA/project/build/CMakeFiles/rebuild_cache.dir
